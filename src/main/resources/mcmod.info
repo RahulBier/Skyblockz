@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "skyblockz",
+    "name": "Skyblockz",
+    "description": "Skyblockz is a Skyblock Helper for Hypixel Skyblock",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://rahulbier.de/",
+    "updateUrl": "",
+    "authorList": [
+      "Rahul_Bier"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
