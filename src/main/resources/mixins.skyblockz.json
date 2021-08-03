@@ -1,8 +1,0 @@
-{
-  "required": true,
-  "package": "de.rahulbier.skyblockz.mixin.mixins",
-  "refmap": "mixins.skyblockz.refmap.json",
-  "mixins": [
-    "MixinGuiMainMenu"
-  ]
-}
