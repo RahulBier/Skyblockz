@@ -1,4 +1,4 @@
-package com.yourname.modid.core;
+package de.rahulbier.skyblockz.core;
 
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
 import org.spongepowered.asm.launch.MixinBootstrap;
@@ -6,7 +6,7 @@ import org.spongepowered.asm.launch.MixinBootstrap;
 import javax.annotation.Nullable;
 import java.util.Map;
 
-@IFMLLoadingPlugin.Name("YourModName")
+@IFMLLoadingPlugin.Name("SkyblockZ")
 public class CoreMod implements IFMLLoadingPlugin {
 
     public CoreMod() {

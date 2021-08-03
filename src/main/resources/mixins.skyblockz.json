@@ -1,8 +1,8 @@
 {
   "compatibilityLevel": "JAVA_8",
-  "package": "com.yourname.modid.mixin",
+  "package": "de.rahulbier.skyblockz.mixin",
   "mixins": [
-    "MixinMinecraft"
+    "MixinGuiMainMenu"
   ],
   "client": [],
   "server": []
